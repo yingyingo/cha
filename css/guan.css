@@ -1,0 +1,132 @@
+/* 大图 */
+.g_home{
+	width: 100%;
+	height: 300px;
+}
+.g_home .btu{
+	height: 300px;
+	width: 100%;
+	background:url(../img/guan1.png) no-repeat center center;
+}
+
+/* 寻味之旅 */
+.container .xun{
+	height: 302px;
+	text-align: center;
+}
+.container .xun h1{
+	font-size: 24px;
+	color: #333333;
+	height: 26px;
+	line-height: 26px;
+	padding-top: 46px;
+	margin-bottom: 46px;
+}
+.container .xun p{
+	font-size: 16px;
+	color: #666666;
+	text-align: left;
+	line-height: 30px;
+	text-indent: 2em;
+}
+.container .xun p.con{
+	margin-top: 34px;
+}
+
+/* 大图2 */
+.container .chatu{
+	height: 500px;
+	background: url(../img/guan2.png) no-repeat center center;
+}
+
+/* 文字 */
+.container .wen{
+	height: 132px;
+}
+.container .wen p{
+	font-size: 16px;
+	color: #666666;
+	text-align: left;
+	line-height: 30px;
+	text-indent: 2em;
+	padding-top: 30px;
+}
+/* 服务优势 */
+.container .yshi{
+	height: 500px;
+}
+.container .yshi .fir{
+	height: 75px;
+	margin-top: 66px;
+	text-align: center;
+}
+.container .yshi .fir h1{
+	height: 45px;
+	line-height: 45px;
+	font-size: 24px;
+	color: #333333;
+	font-weight: normal;
+}
+.container .yshi .fir p{
+	height: 30px;
+	line-height: 30px;
+	font-size: 14px;
+	color: #999999;
+}
+.container .yshi .type{
+	height: 364px;
+	width: 1032px;
+	padding: 72px 84px 0px 84px;
+	text-align: center;
+}
+.container .yshi .type li{
+	width: 344px;
+	height: 364px;
+}
+.container .yshi .type li .yuan{
+	text-align: center;
+	width: 116px;
+	height: 116px;
+	margin-left: 116px;
+	border-radius: 50%;
+	background: url(../img/AD0Iu_ufBxAEGAAg-trLzwUomMaX2QIwdDh0.png) no-repeat center center;
+}
+.container .yshi .type li .yuan img{
+	width: 80px;
+	height: 80px;
+	margin-top: 17px;
+}
+.container .yshi .type li h1{
+	height: 35px;
+	line-height: 35px;
+	font-size: 16px;
+	font-weight: normal;
+	color: #333333;
+	margin-top: 32px;
+}
+.container .yshi .type li p{
+	height: 30px;
+	line-height: 30px;
+	font-size: 12px;
+	color: #999999;
+}
+.bigimg{
+	width: 100%;
+	height: 452px;
+	background: url(../img/AD0Iu_ufBxACGAAg-NrLzwUo6eX3rQIwgA84wgM.jpg) no-repeat center center;
+}
+.posi{
+	width: 1200px;
+	height: 452px;
+	position: relative;
+}
+.posi .news{
+	position: absolute;
+	left: 60px;
+	bottom: 20px;
+}
+.posi .news h1{
+	font-size: 24px;
+	color: #FFFFFF;
+	font-weight: normal;
+}

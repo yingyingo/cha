@@ -1,0 +1,63 @@
+/* 大图 */
+.g_home{
+	width: 100%;
+	height: 300px;
+}
+.g_home .btu{
+	height: 300px;
+	width: 100%;
+	background:url(../img/chan1.png) no-repeat center center;
+}
+
+/* 产品 */
+.container .cont{
+	height: 700px;
+	padding-top: 35px;
+	margin-bottom: 62px;
+}
+.container .cont .cont_top{
+	height: 76px;
+	text-align: center;
+}
+.container .cont .cont_top h1{
+	height: 44px;
+	line-height: 44px;
+	font-size: 24px;
+	color: #333333;
+	font-weight: normal;
+}
+.container .cont .cont_top p{
+	height: 32px;
+	line-height: 32px;
+	font-size: 14px;
+	color: #999999;
+}
+.container .cont .xq{
+	height: 546px;
+	padding-top: 6px;
+	padding-bottom: 38px;
+	padding-bottom: 78px;
+}
+.container .cont .xq li{
+	width: 300px;
+	height: 273px;
+}
+.container .cont .xq li .img{
+	width: 300px;
+	height: 260px;
+}
+.container .cont .xq li .img img{
+	width: 200px;
+	height: 214px;
+	margin-left: 50px;
+	margin-top: 46px;
+}
+.container .cont .xq li p{
+	height: 16px;
+	font-size: 16px;
+	line-height: 16px;
+	color: #333333;
+	text-align: center;
+	width: 300px;
+}
+

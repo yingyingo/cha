@@ -1,0 +1,151 @@
+/* 大图 */
+.g_home{
+	width: 100%;
+	height: 300px;
+}
+.g_home .btu{
+	height: 300px;
+	width: 100%;
+	background:url(../img/lian1.png) no-repeat center center;
+}
+
+/* 联系我们 */
+.container .lianxi{
+	height: 450px;
+}
+.container .lianxi .lian_lef{
+	width: 546px;
+	height: 450px;
+	margin-right: 52px;
+}
+.container .lianxi .lian_lef .top{
+	width: 546px;
+	height: 45px;
+	border-bottom: 1px solid #EAEAEA ;
+	padding-top: 70px;
+}
+.container .lianxi .lian_lef .top h1{
+	height: 45px;
+	width: 86px;
+	text-align: center;
+	border-bottom: 1px solid #FF6537;
+	line-height: 45px;
+	color: #FF6637;
+	font-size: 16px;
+	font-weight: normal;
+}
+.container .lianxi .lian_lef .bot{
+	width: 536px;
+	height: 312px;
+	margin: 5px;
+}
+.container .lianxi .lian_lef .bot .content{
+	width: 536px;
+	height: 305px;
+}
+.container .lianxi .lian_lef .bot .content p{
+	width: 536px;
+	height: 29px;
+	line-height: 29px;
+	font-size: 16px;
+	color: #666666;
+	text-indent: 30px;
+}
+.container .lianxi .lian_lef .bot .content .erw{
+	width: 536px;
+	height: 160px;
+}
+.container .lianxi .lian_lef .bot .content .erw img{
+	width: 160px;
+	height: 160px;
+	margin-left: 42px;
+}
+.container .lianxi .lian_lef .bot .content p.erzi{
+	width: 536px;
+	height: 29px;
+}
+.container .lianxi .lian_lef .bot .content p.erzi span{
+	display: inline-block;
+	width: 200px;
+	font-weight: bold;
+	font-size: 16px;
+	color: #666666;
+}
+.container .lianxi .lian_rig{
+	width: 590px;
+	height: 341px;
+	margin: 5px;
+}
+.container .lianxi .lian_rig .name{
+	width: 590px;
+	height: 143px;
+}
+.container .lianxi .lian_rig .name .pleace{
+	width: 590px;
+	height: 30px;
+	margin-top: 80px;
+	margin-bottom: 15px;
+	line-height: 30px;
+	font-size: 14px;
+	color: #666666;
+}
+.container .lianxi .lian_rig .name li{
+	width: 265px;
+	height: 34px;
+	margin: 10px 30px 10px 0px;
+	position: relative;
+}
+.container .lianxi .lian_rig .name li .biao{
+	width: 60px;
+	height: 34px;
+	line-height: 34px;
+	display: inline-block;
+	font-size: 14px;
+	color: #666666;
+}
+.container .lianxi .lian_rig .name li input{
+	width: 190px;
+	height: 34px;
+	border: 1px solid #DADADA;
+}
+.container .lianxi .lian_rig .name li span{
+	color: #FF6537;
+	display: inline-block;
+	width: 6px;
+	position: absolute;
+	right: -4px;
+	top: 12px;
+}
+.container .lianxi .lian_rig .lyan{
+	width: 590px;
+	height: 80px;
+	margin: 20px 0px;
+}
+.container .lianxi .lian_rig .lyan .lzi{
+	width: 58px;
+	height: 66px;
+	line-height: 66px;
+	display: inline-block;
+	float: left;
+	margin-right: 6px;
+}
+.container .lianxi .lian_rig .lyan textarea{
+	width: 256px;
+	height: 66px;
+	border: 1px solid #DADADA;
+}
+.container .lianxi .lian_rig input.tijiao{
+	width: 230px;
+	height: 42px;
+	background: #F54F4F;
+	color: #FFFFFF;
+	border: 0px;
+	cursor: pointer;
+	margin-left: 65px;
+}
+
+/* 地图 */
+.container .map{
+	height: 300px;
+	margin-bottom: 84px;
+}

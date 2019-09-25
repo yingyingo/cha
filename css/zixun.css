@@ -1,0 +1,123 @@
+/* 大图 */
+.g_home{
+	width: 100%;
+	height: 300px;
+}
+.g_home .btu{
+	height: 300px;
+	width: 100%;
+	background:url(../img/zi1.png) no-repeat center center;
+}
+
+/* 资讯 */
+.container .ztop{
+	height: 62px;
+	border-bottom: 1px solid #A9A9A9;
+}
+.container .ztop p{
+	height: 40px;
+	line-height: 40px;
+	padding-bottom: 10px;
+	padding-top: 22px;
+}
+.container .ztop p span,
+.container .ztop p a{
+	font-size: 14px;
+	color: #666666;
+}
+.container .zi{
+	height: 112px;
+	border-bottom: 1px solid #CCCCCC;
+}
+.container .zi div{
+	height: 45px;
+	line-height: 45px;
+	padding-top: 70px;
+}
+.container .zi div h4{
+	width: 100px;
+	height: 16px;
+	border-left: 5px solid #FF6537;
+	font-size: 16px;
+	font-weight: normal;
+	color: #FF6637;
+	line-height: 17px;
+	text-indent: 8px;
+	margin-top: 14px;
+	margin-left: 10px;
+}
+.container .zi div p a{
+	font-size: 14px;
+	color: #666666;
+}
+.container .jsh{
+	height: 180px;
+	padding-bottom: 17px;
+	margin-top: 18px;
+	border-bottom: 1px dashed #E5E5E5;
+}
+.container .jsh .img,
+.container .jsh .img img{
+	width: 250px;
+	height: 180px;
+}
+.container .jsh .xq{
+	width: 940px;
+	height: 180px;
+	padding-left: 10px;
+}
+.container .jsh .xq .date{
+	height: 23px;
+	width: 940px;
+}
+.container .jsh .xq .date a{
+	display: inline-block;
+	height: 23px;
+	line-height: 23px;
+	color: #666666;
+}
+.container .jsh .xq .date a:hover{
+	color: #FF6637;
+}
+.container .jsh .xq .date a.con1{
+	font-size: 16px;
+	float: left;
+	font-weight: bold;
+}
+.container .jsh .xq .date a.con2{
+	font-size: 14px;
+	float: right;
+}
+.container .jsh .xq p{
+	height: 40px;
+	width: 940px;
+	font-size: 15px;
+	color: #797979;
+	padding-top: 4px;
+}
+.container .xq_fir{
+	padding-top: 18px;
+}
+.container .xq_last{
+	border: 0px;
+}
+
+/* 页码 */
+.container .yema{
+	margin-top: 10px;
+	margin-bottom: 116px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	font-size: 14px;
+	color: #666666;
+}
+.container .yema span{
+	display: inline-block;
+	height: 14px;
+	line-height: 14px;
+	margin-right: 26px;
+}
+.container .yema span.con{
+	color: #FF6637;
+}
